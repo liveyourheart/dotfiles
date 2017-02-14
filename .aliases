@@ -163,3 +163,7 @@ alias gck='git checkout'
 
 #nand2tetris aliases
 alias hs='HardwareSimulator.sh'
+
+#background screensaver
+
+alias ssbg='/System/Library/Frameworks/ScreenSaver.framework/Resources/ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine -background'
